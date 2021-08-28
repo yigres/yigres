@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi! 👋 I'm Serg
 
+- 🌱 Passed the profession of a frontend developer on [Hexlet](https://ru.hexlet.io/u/yigres)
+- 🔭 
+<!-- [github](https://github.com/yigres "https://github.com/yigres")   -->
 <!--
 **yigres/yigres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
