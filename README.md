@@ -1,8 +1,13 @@
 ### Hi! 👋 I'm Serg
 
 - 🌱 Passed the profession of a frontend developer on [Hexlet](https://ru.hexlet.io/u/yigres)
-- 🔭 
-<!-- [github](https://github.com/yigres "https://github.com/yigres")   -->
+- 🔭  
+  
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yigres&layout=compact&theme=synthwave&langs_count=10&hide=html,css,blade) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yigres) -->
+
+![yigres's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigres&show_icons=true&theme=radical&hide=stars,issues)
+
 <!--
 **yigres/yigres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
