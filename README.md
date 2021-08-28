@@ -3,9 +3,7 @@
 - 🌱 Passed the profession of a frontend developer on [Hexlet](https://ru.hexlet.io/u/yigres)
 - 🔭  
   
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yigres&layout=compact&theme=synthwave&langs_count=10&hide=html,css,blade) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yigres) -->
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yigres&layout=compact&theme=synthwave)
 ![yigres's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigres&show_icons=true&theme=radical&hide=stars,issues)
 
 <!--
