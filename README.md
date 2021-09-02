@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Serg
+### Hi! 👋 I'm Serge Kirillov
 
 - 🌱 Passed the profession of a frontend developer on [Hexlet](https://ru.hexlet.io/u/yigres)
 - 🔭  
